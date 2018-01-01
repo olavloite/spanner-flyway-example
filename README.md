@@ -1,5 +1,6 @@
 # spanner-flyway-example
 Example project for using Flyway, JPA, Hibernate and Spring Boot with Google Cloud Spanner.
+Have a look here for a description of this example project: http://www.googlecloudspanner.com/2018/01/google-cloud-spanner-with-flyway.html
 
 This project relies on two other open source projects:
 * spanner-jdbc (https://github.com/olavloite/spanner-jdbc): An open source JDBC Driver for Google Cloud Spanner
